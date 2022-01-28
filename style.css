@@ -69,7 +69,7 @@ li {
     margin: 20px 0px;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 800px) {
     
     .panel {
         width: 90vw;
