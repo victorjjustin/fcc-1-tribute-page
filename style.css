@@ -78,6 +78,10 @@ li {
         padding: 5px 0px;
     }
 
+    ul {
+        width: 100%;
+    }
+
     figcaption {
         margin-top: 14px;
     }
