@@ -2,8 +2,6 @@
 
 ## Tribute Page Project
 
----
-
 Based on Shigeru Miyamoto using plain HTML and CSS.
 
 Designed the layout and style sheet myself. 
