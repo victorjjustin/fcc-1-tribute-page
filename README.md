@@ -4,6 +4,6 @@
 
 Based on Shigeru Miyamoto using plain HTML and CSS.
 
-Designed the layout and style sheet myself. 
+Designed and styled myself. 
 
-Made the repeating background using sprites from Miyamoto's Mario and Zelda NES games.
+Made the repeating background using sprites from Mario and Zelda NES games.
